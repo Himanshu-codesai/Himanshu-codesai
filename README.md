@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Himanshu</h1>
+<h1 align="center">Hi 👋, I'm Himanshu Chaudhari </h1>
 <h3 align="center">Innovating with AI, ML, DL, Generative AI, Data Science, NLP, Cloud, and APIs</h3>
 
 <p align="center">
