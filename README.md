@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <em>Welcome to my GitHub profile! I am a passionate AI enthusiast with a keen interest in leveraging Machine Learning, Deep Learning, Generative AI, and Data Science to build innovative solutions. My expertise extends to NLP, Cloud computing, and API development, aiming to push the boundaries of technology and create impactful projects.</em>
+  <em>Welcome to my GitHub profile! I am a passionate AI enthusiast with a keen interest in leveraging Machine Learning, Deep Learning, Generative AI, and Data Science to build innovative solutions.</em>
 </p>
 
 ---
