@@ -2,7 +2,7 @@
 <h3 align="center">Innovating with AI, ML, DL, Generative AI, Data Science, NLP, Cloud, and APIs</h3>
 
 <p align="center">
-  <img src="coding image in pc a.jpg" alt="Banner Image" />
+  <img src="coding image in pc a.jpg" alt="Banner Image" width="600" height="300" />
 </p>
 
 ---
