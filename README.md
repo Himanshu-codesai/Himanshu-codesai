@@ -26,6 +26,14 @@
 
 ---
 
+<h3 align="center">📌 GitHub Contributions</h3>
+<p align="center">
+  For my commits and contribution history, please visit  
+  👉 <a href="https://github.com/HimanshuNextbase" target="_blank">HimanshuNextbase</a>
+</p>
+
+---
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
